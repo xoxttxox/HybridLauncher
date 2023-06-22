@@ -39,14 +39,14 @@ Sie können von [GitHub-Veröffentlichungen](https://github.com/dscalzi/HeliosLa
 
 #### Neueste Version
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
+[![](https://img.shields.io/github/release/xoxttxox/HybridLauncher.svg?style=flat-square)](https://github.com/xoxttxox/HybridLauncher/releases/latest)
 
 #### Neueste Vorabversion
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
+[![](https://img.shields.io/github/release/xoxttxox/HybridLauncher/all.svg?style=flat-square)](https://github.com/xoxttxox/HybridLauncher/releases)
 
 **Unterstützte Plattformen**
 
-Wenn Sie von [Veröffentlichungen](https://github.com/dscalzi/HeliosLauncher/releases) herunterladen, wählen Sie das Installationsprogramm für Ihr System aus.
+Wenn Sie von [Veröffentlichungen](https://github.com/xoxttxox/HybridLauncher/releases) herunterladen, wählen Sie das Installationsprogramm für Ihr System aus.
 
 | Platform | File |
 | -------- | ---- |
