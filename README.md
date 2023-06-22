@@ -35,7 +35,7 @@
 
 ## Downloads
 
-Sie können von [GitHub-Veröffentlichungen](https://github.com/dscalzi/HeliosLauncher/releases) herunterladen.
+Sie können von [GitHub-Veröffentlichungen](https://github.com/xoxttxox/HybridLauncher/releases) herunterladen.
 
 #### Neueste Version
 
@@ -60,7 +60,7 @@ Wenn Sie von [Veröffentlichungen](https://github.com/xoxttxox/HybridLauncher/re
 
 Der beste Weg, mit den Entwicklern in Kontakt zu treten, ist auf Discord.
 
-[![discord](https://discordapp.com/api/guilds/211524927831015424/embed.png?style=banner3)][discord]
+[![discord](https://discordapp.com/api/guilds/1121275288878321674/embed.png?style=banner2)][discord]
 
 ---
 
@@ -72,5 +72,5 @@ Der beste Weg, mit den Entwicklern in Kontakt zu treten, ist auf Discord.
 [mainprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Main Process'
 [rendererprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Renderer Process'
 [chromedebugger]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome 'Debugger for Chrome'
-[discord]: https://discord.gg/zNWUXdt 'Discord'
+[discord]: https://discord.gg/2rnfpCrC6Z 'Discord'
 [wiki]: https://github.com/xoxttxox/HybridLauncher/wiki 'wiki'
