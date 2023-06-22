@@ -4,12 +4,10 @@
 
 <em><h5 align="center">(Electron Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/xoxttxox/HybridLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/xoxttxox/HybridLauncher/actions) [<img src="https://img.shields.io/github/downloads/xoxttxox/HybridLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/xoxttxox/HybridLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
-
 <p align="center">Treten Sie modifizierten Servern bei, ohne sich Gedanken über die Installation von Java, Forge oder anderen Mods machen zu müssen. Wir erledigen das für Sie.</p>
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
+![Screenshot 1](https://i.ibb.co/Jngh7yg/Screenshot-2023-06-22-025625.png)
+![Screenshot 2](https://i.ibb.co/PWYnvfJ/Screenshot-2023-06-22-025647.png)
 
 ## Features
 
