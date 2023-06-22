@@ -9,25 +9,25 @@
 ![Screenshot 1](https://imgur.com/k5NAMWQ.png)
 ![Screenshot 2](https://imgur.com/krMOA9e.png)
 
-## Features
+## Merkmale
 
-* 🔒 Full account management.
-  * Add multiple accounts and easily switch between them.
-  * Microsoft (OAuth 2.0) + Mojang (Yggdrasil) authentication fully supported.
-  * Credentials are never stored and transmitted directly to Mojang.
-* 📂 Efficient asset management.
-  * Receive client updates as soon as we release them.
-  * Files are validated before launch. Corrupt or incorrect files will be redownloaded.
-* ☕ **Automatic Java validation.**
-  * If you have an incompatible version of Java installed, we'll install the right one *for you*.
-  * You do not need to have Java installed to run the launcher.
-* 📰 News feed natively built into the launcher.
-* ⚙️ Intuitive settings management, including a Java control panel.
-* Supports all of our servers.
-  * Switch between server configurations with ease.
-  * View the player count of the selected server.
-* Automatic updates. That's right, the launcher updates itself.
-*  View the status of Mojang's services.
+* 🔒 Vollständige Kontoverwaltung.
+   * Fügen Sie mehrere Konten hinzu und wechseln Sie einfach zwischen ihnen.
+   * Microsoft (OAuth 2.0) + Mojang (Yggdrasil) Authentifizierung vollständig unterstützt.
+   * Anmeldeinformationen werden niemals gespeichert und direkt an Mojang übermittelt.
+* 📂 Effiziente Vermögensverwaltung.
+   * Erhalten Sie Kundenaktualisierungen, sobald wir sie veröffentlichen.
+   * Dateien werden vor dem Start validiert. Beschädigte oder falsche Dateien werden erneut heruntergeladen.
+* ☕ **Automatische Java-Validierung.**
+   * Wenn Sie eine inkompatible Java-Version installiert haben, installieren wir *für Sie* die richtige Version.
+   * Sie müssen Java nicht installiert haben, um den Launcher auszuführen.
+* 📰 Newsfeed nativ in den Launcher integriert.
+* ⚙️ Intuitive Einstellungsverwaltung, einschließlich eines Java-Kontrollfelds.
+* Unterstützt alle unsere Server.
+   * Wechseln Sie problemlos zwischen Serverkonfigurationen.
+   * Sehen Sie sich die Spieleranzahl des ausgewählten Servers an.
+* Automatische Updates. Das ist richtig, der Launcher aktualisiert sich selbst.
+* Sehen Sie sich den Status der Dienste von Mojang an.
 
 #### Brauchen Sie Hilfe? [Schauen Sie sich das Wiki an.][wiki]
 
