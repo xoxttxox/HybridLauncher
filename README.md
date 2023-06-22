@@ -42,7 +42,7 @@ Sie können von [GitHub-Veröffentlichungen](https://github.com/dscalzi/HeliosLa
 [![](https://img.shields.io/github/release/xoxttxox/HybridLauncher.svg?style=flat-square)](https://github.com/xoxttxox/HybridLauncher/releases/latest)
 
 #### Neueste Vorabversion
-[![](https://img.shields.io/github/release/xoxttxox/HybridLauncher/all.svg?style=flat-square)](https://github.com/xoxttxox/HybridLauncher/releases)
+[![](https://img.shields.io/github/v/tag/xoxttxox/HybridLauncher.svg?include_prereleases&label=pre-release&style=flat-square&color=orange)](https://github.com/xoxttxox/HybridLauncher/releases)
 
 **Unterstützte Plattformen**
 
