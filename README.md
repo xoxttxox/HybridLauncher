@@ -39,17 +39,17 @@ Sie können von [GitHub-Veröffentlichungen](https://github.com/dscalzi/HeliosLa
 
 #### Neueste Version
 
-[![](https://img.shields.io/github/v/release/xoxttxox/HybridLauncher.svg?style=flat-square)](https://github.com/xoxttxox/HybridLauncher/releases/latest)
+[![](https://img.shields.io/github/v/release/xoxttxox/HybridLauncher.svg?label=Veröffentlichung&style=flat-square)](https://github.com/xoxttxox/HybridLauncher/releases/latest)
 
 #### Neueste Vorabversion
-[![](https://img.shields.io/github/v/release/xoxttxox/HybridLauncher.svg?include_prereleases&label=pre-release&style=flat-square)](https://github.com/xoxttxox/HybridLauncher/releases)
+[![](https://img.shields.io/github/v/release/xoxttxox/HybridLauncher.svg?include_prereleases&label=Vorveröffentlichung&style=flat-square)](https://github.com/xoxttxox/HybridLauncher/releases)
 
 **Unterstützte Plattformen**
 
 Wenn Sie von [Veröffentlichungen](https://github.com/xoxttxox/HybridLauncher/releases) herunterladen, wählen Sie das Installationsprogramm für Ihr System aus.
 
-| Platform | File |
-| -------- | ---- |
+| Plattform | Datei |
+| --------- | ----- |
 | Windows x64 | `Hybrid-Launcher-setup-VERSION.exe` |
 
 ---
