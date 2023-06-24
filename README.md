@@ -1,4 +1,4 @@
-<p align="center"><img src="https://insane-v.de/mc/image/logo.png" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="https://i.ibb.co/yfGfPn4/LOGO.png" width="150px" height="150px" alt="aventium softworks"></p>
 
 <h1 align="center">Hybrid Launcher</h1>
 
